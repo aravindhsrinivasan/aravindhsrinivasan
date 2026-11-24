@@ -4,6 +4,8 @@
 
 I turn generative AI into products people trust.
 
+**Start here:** https://aravindhsrinivasan.github.io/ — my pitch, what I've shipped and the projects below, in one page.
+
 14+ years across cloud, data and AI: IT operations at Accenture, Azure consulting, then product management.
 
 **Looking for:** end-to-end ownership of useful, trustworthy AI products for external customers—from strategy and quality bars to launch and adoption.
