@@ -1,29 +1,31 @@
-# Hi, I'm Aravindh
+# Aravindh Srinivasan
 
+**Senior AI Product Manager** · Bengaluru, India
 I turn generative AI into products people trust.
 
-Explore my portfolio: https://aravindhsrinivasan.github.io/
+**Looking for:** an AI product role where I own an area end to end, from strategy and quality bar to launch and learning.
 
-I'm a Senior AI Product Manager with a background in cloud consulting, data platforms and AI product delivery. I work across customer discovery, prototyping, evaluation and launch decisions, with a particular interest in keeping people in control of consequential actions.
+## What I've done
 
-My professional experience spans summarization products, AI quality, platform migration and developer enablement. This GitHub portfolio is separate: personal projects built from public references and fictional scenarios.
+- **Shipped generative AI.** Led summarization experiences from discovery through preview to general availability.
+- **Made quality part of the product.** Defined evaluation criteria, paired automated checks with human review, and made rollout and rollback calls.
+- **Designed for human judgment.** Worked out where agents can gather context and draft work, and where a person keeps the next action.
+- **Grew up on cloud and data.** IT operations at Accenture, Azure cloud consulting at Microsoft, then product management for data platforms.
 
-## What I'm planning to build
+## What I'm building
 
-- **RAG support copilot** — Kubernetes documentation Q&A with citations, version awareness and abstention.
-- **Support triage agent** — fictional tickets, explicit human approval and tests against broken tools.
-- **Improve with evidence** — model routing evaluated against a baseline for quality, cost and latency.
+Personal projects, built only from public docs and fictional scenarios.
 
-These projects are **planned, not completed demos**. I'll add repository links and measured results as the work becomes ready.
+| Project | What it shows | Status |
+|---|---|---|
+| Kubernetes docs copilot | Citations, version awareness, abstention, evals | Baseline built and scored on 60 test questions; repo opens after label review |
+| Support triage agent | Tool permissions, human approval, broken-tool tests | Planned |
+| Improve with evidence | Model routing vs. baseline on quality, cost and latency | Planned |
 
-Supporting work will include a fictional help-desk MCP server, an evaluation-plan template and product decision records.
+## Find me
 
-## How I work
+- Portfolio: https://aravindhsrinivasan.github.io/
+- LinkedIn: https://www.linkedin.com/in/saiaravindh
+- Earlier GitHub (cloud and DevOps, 2017–2022): https://github.com/msaravindh
 
-Start with the user's job. Define the quality bar before measuring. Make limitations visible. Use prototypes to learn, and evidence to decide.
-
-Outside work, I enjoy mentoring, terrace gardening and cooking.
-
-LinkedIn: https://www.linkedin.com/in/saiaravindh
-
-Personal projects and views. No employer endorsement.
+<sub>Personal projects and views; no employer endorsement.</sub>
